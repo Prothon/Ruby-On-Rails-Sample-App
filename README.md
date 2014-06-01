@@ -2,4 +2,4 @@
 
 Trying to learn ruby on rails. Looks great!
 
-You can find it at [Ruby On Rails Tutorial(http://www.railstutorial.org)
+You can find it at [Ruby On Rails Tutorial](http://www.railstutorial.org)
