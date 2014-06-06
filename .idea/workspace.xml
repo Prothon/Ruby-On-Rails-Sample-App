@@ -60,8 +60,8 @@
                 <state />
               </provider>
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.11064278" vertical-offset="0" max-vertical-offset="949">
-                  <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+                <state vertical-scroll-proportion="0.07903056" vertical-offset="0" max-vertical-offset="949">
+                  <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
                   <folding />
                 </state>
               </provider>
@@ -452,7 +452,11 @@
       <created>1402022981689</created>
       <updated>1402022981689</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Strange github parsing issue.">
+      <created>1402023018554</created>
+      <updated>1402023018554</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -497,7 +501,8 @@
     </option>
     <MESSAGE value="Changed the readme" />
     <MESSAGE value="Change the readme. Did not take hold last commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Change the readme. Did not take hold last commit." />
+    <MESSAGE value="Strange github parsing issue." />
+    <option name="LAST_COMMIT_MESSAGE" value="Strange github parsing issue." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -873,8 +878,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11064278" vertical-offset="0" max-vertical-offset="949">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.07903056" vertical-offset="0" max-vertical-offset="949">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
           <folding />
         </state>
       </provider>
